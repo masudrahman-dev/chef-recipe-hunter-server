@@ -1,9 +1,9 @@
 const express = require('express')
 const app = express()
 const port = 3000
-const recefiCard = require('./data/recefiCard.json')
+const data = require('./data/data.json')
 app.get('/', (req, res) => {
-  res.send(recefiCard)
+  res.send(data)
 })
 
 app.listen(port, () => {

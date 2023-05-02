@@ -1,429 +1,453 @@
 [
-  {
-    "_id": "6151b2d024bbd39d52b53775",
-    "name": "Michelle Nguyen",
-    "chef_image": "https://example.com/chef-1.jpg",
-    "likes": 215,
-    "about": "Michelle Nguyen is an award-winning chef who has been featured on several cooking shows. Her specialty is Asian cuisine, and she is known for her unique fusion of traditional and modern flavors.",
-    "recipes": [
-      {
-        "id": "645115edca344e8d39fa4125",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
-        "recipe_name": "Spicy Shrimp Tacos",
-        "ingredients": [
-          "1 lb raw shrimp",
-          "2 tbsp olive oil",
-          "1 tbsp chili powder",
-          "1 tsp cumin",
-          "1/2 tsp smoked paprika",
-          "1/2 tsp garlic powder",
-          "1/4 tsp cayenne pepper",
-          "8 small tortillas",
-          "1 cup shredded cabbage",
-          "1 avocado, sliced",
-          "1 lime, cut into wedges"
-        ],
-        "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
-        "rating": 4.8
-      },
-      {
-        "id": "755115edca344e8d39fa4155",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
-        "recipe_name": "Teriyaki Chicken Bowl",
-        "ingredients": [
-          "1 lb chicken breast, sliced",
-          "2 tbsp soy sauce",
-          "2 tbsp honey",
-          "1 tbsp rice vinegar",
-          "1 tsp ginger, grated",
-          "1 tsp garlic, minced",
-          "1 tbsp cornstarch",
-          "1 tbsp water",
-          "4 cups cooked white rice",
-          "1 cup steamed broccoli",
-          "1/2 cup sliced carrots",
-          "1/4 cup sliced green onions",
-          "1 tsp sesame seeds"
-        ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
-        "rating": 4.9
-      },
-      {
-        "id": "645115ed64ae8f728eef45b9",
-        "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
-        "recipe_name": "Beef Stroganoff",
-        "ingredients": [
-          "1 lb beef sirloin steak",
-          "1 onion",
-          "8 oz sliced mushrooms",
-          "2 cloves garlic",
-          "2 tbsp butter",
-          "2 tbsp all-purpose flour",
-          "2 cups beef broth",
-          "1/2 cup sour cream",
-          "1 tbsp dijon mustard",
-          "1 tbsp Worcestershire sauce",
-          "Salt and pepper to taste"
-        ],
-        "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
-        "rating": 4.4
-      }
-    ]
-  },
+  [
+    {
+      "_id": "6151b2d024bbd39d52b53775",
+      "name": "Michelle Nguyen",
+      "chef_image": "https://example.com/chef-1.jpg",
+      "likes": 215,
+      "about": "Michelle Nguyen is an award-winning chef who has been featured on several cooking shows. Her specialty is Asian cuisine, and she is known for her unique fusion of traditional and modern flavors.",
+      "recipes": [
+        {
+          "id": "645115edca344e8d39fa4125",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
+          "recipe_name": "Spicy Shrimp Tacos",
+          "ingredients": [
+            "1 lb raw shrimp",
+            "2 tbsp olive oil",
+            "1 tbsp chili powder",
+            "1 tsp cumin",
+            "1/2 tsp smoked paprika",
+            "1/2 tsp garlic powder",
+            "1/4 tsp cayenne pepper",
+            "8 small tortillas",
+            "1 cup shredded cabbage",
+            "1 avocado, sliced",
+            "1 lime, cut into wedges"
+          ],
+          "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
+          "rating": 4.8
+        },
+        {
+          "id": "755115edca344e8d39fa4155",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_name": "Teriyaki Chicken Bowl",
+          "ingredients": [
+            "1 lb chicken breast, sliced",
+            "2 tbsp soy sauce",
+            "2 tbsp honey",
+            "1 tbsp rice vinegar",
+            "1 tsp ginger, grated",
+            "1 tsp garlic, minced",
+            "1 tbsp cornstarch",
+            "1 tbsp water",
+            "4 cups cooked white rice",
+            "1 cup steamed broccoli",
+            "1/2 cup sliced carrots",
+            "1/4 cup sliced green onions",
+            "1 tsp sesame seeds"
+          ],
+          "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
+          "rating": 4.9
+        },
+        {
+          "id": "645115ed64ae8f728eef45b9",
+          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "recipe_name": "Beef Stroganoff",
+          "ingredients": [
+            "1 lb beef sirloin steak",
+            "1 onion",
+            "8 oz sliced mushrooms",
+            "2 cloves garlic",
+            "2 tbsp butter",
+            "2 tbsp all-purpose flour",
+            "2 cups beef broth",
+            "1/2 cup sour cream",
+            "1 tbsp dijon mustard",
+            "1 tbsp Worcestershire sauce",
+            "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
+          "rating": 4.4
+        }
+      ]
+    },
 
-  {
-    "_id": "6151b2d024bbd39d52b53776",
-    "name": "Jose Rodriguez",
-    "chefe_image": "https://example.com/chef-2.jpg",
-    "likes": 148,
-    "about": "Jose Rodriguez is a renowned chef who has worked in some of the best restaurants in the world. He is known for his creative use of local ingredients and his innovative cooking techniques.",
-    "recipes": [
-      {
-        "id": "645115edca344e8d39fa4125",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
-        "recipe_name": "Spicy Shrimp Tacos",
-        "ingredients": [
-          "1 lb raw shrimp",
-          "2 tbsp olive oil",
-          "1 tbsp chili powder",
-          "1 tsp cumin",
-          "1/2 tsp smoked paprika",
-          "1/2 tsp garlic powder",
-          "1/4 tsp cayenne pepper",
-          "8 small tortillas",
-          "1 cup shredded cabbage",
-          "1 avocado, sliced",
-          "1 lime, cut into wedges"
-        ],
-        "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
-        "rating": 4.8
-      },
-      {
-        "id": "755115edca344e8d39fa4155",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
-        "recipe_name": "Teriyaki Chicken Bowl",
-        "ingredients": [
-          "1 lb chicken breast, sliced",
-          "2 tbsp soy sauce",
-          "2 tbsp honey",
-          "1 tbsp rice vinegar",
-          "1 tsp ginger, grated",
-          "1 tsp garlic, minced",
-          "1 tbsp cornstarch",
-          "1 tbsp water",
-          "4 cups cooked white rice",
-          "1 cup steamed broccoli",
-          "1/2 cup sliced carrots",
-          "1/4 cup sliced green onions",
-          "1 tsp sesame seeds"
-        ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
-        "rating": 4.9
-      },
-      {
-        "id": "645115ed64ae8f728eef45b9",
-        "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
-        "recipe_name": "Beef Stroganoff",
-        "ingredients": [
-          "1 lb beef sirloin steak",
-          "1 onion",
-          "8 oz sliced mushrooms",
-          "2 cloves garlic",
-          "2 tbsp butter",
-          "2 tbsp all-purpose flour",
-          "2 cups beef broth",
-          "1/2 cup sour cream",
-          "1 tbsp dijon mustard",
-          "1 tbsp Worcestershire sauce",
-          "Salt and pepper to taste"
-        ],
-        "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
-        "rating": 4.4
-      }
-    ]
-  },
-  {
-    "_id": "6151b2d024bbd39d52b53777",
-    "name": "Emily Park",
-    "chefe_image": "https://example.com/chef-3.jpg",
-    "likes": 312,
-    "about": "Emily Park is a rising star in the culinary world. She has won several awards for her innovative dishes and her commitment to using organic and sustainable ingredients. Her cooking style is influenced by her Korean heritage and her travels around the world.",
-    "recipes": [
-      {
-        "id": "645115edca344e8d39fa4125",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
-        "recipe_name": "Spicy Shrimp Tacos",
-        "ingredients": [
-          "1 lb raw shrimp",
-          "2 tbsp olive oil",
-          "1 tbsp chili powder",
-          "1 tsp cumin",
-          "1/2 tsp smoked paprika",
-          "1/2 tsp garlic powder",
-          "1/4 tsp cayenne pepper",
-          "8 small tortillas",
-          "1 cup shredded cabbage",
-          "1 avocado, sliced",
-          "1 lime, cut into wedges"
-        ],
-        "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
-        "rating": 4.8
-      },
-      {
-        "id": "755115edca344e8d39fa4155",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
-        "recipe_name": "Teriyaki Chicken Bowl",
-        "ingredients": [
-          "1 lb chicken breast, sliced",
-          "2 tbsp soy sauce",
-          "2 tbsp honey",
-          "1 tbsp rice vinegar",
-          "1 tsp ginger, grated",
-          "1 tsp garlic, minced",
-          "1 tbsp cornstarch",
-          "1 tbsp water",
-          "4 cups cooked white rice",
-          "1 cup steamed broccoli",
-          "1/2 cup sliced carrots",
-          "1/4 cup sliced green onions",
-          "1 tsp sesame seeds"
-        ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
-        "rating": 4.9
-      },
-      {
-        "id": "645115ed64ae8f728eef45b9",
-        "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
-        "recipe_name": "Beef Stroganoff",
-        "ingredients": [
-          "1 lb beef sirloin steak",
-          "1 onion",
-          "8 oz sliced mushrooms",
-          "2 cloves garlic",
-          "2 tbsp butter",
-          "2 tbsp all-purpose flour",
-          "2 cups beef broth",
-          "1/2 cup sour cream",
-          "1 tbsp dijon mustard",
-          "1 tbsp Worcestershire sauce",
-          "Salt and pepper to taste"
-        ],
-        "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
-        "rating": 4.4
-      }
-    ]
-  },
-  {
-    "_id": "6151b2d024bbd39d52b53778",
-    "name": "David Kim",
-    "chefe_image": "https://example.com/chef-4.jpg",
-    "likes": 78,
-    "about": "David Kim is a classically trained chef who has worked in some of the most prestigious kitchens in Europe and the United States. He is known for his refined technique and his ability to elevate simple ingredients to new heights.",
-    "recipes": [
-      {
-        "id": "645115edca344e8d39fa4125",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
-        "recipe_name": "Spicy Shrimp Tacos",
-        "ingredients": [
-          "1 lb raw shrimp",
-          "2 tbsp olive oil",
-          "1 tbsp chili powder",
-          "1 tsp cumin",
-          "1/2 tsp smoked paprika",
-          "1/2 tsp garlic powder",
-          "1/4 tsp cayenne pepper",
-          "8 small tortillas",
-          "1 cup shredded cabbage",
-          "1 avocado, sliced",
-          "1 lime, cut into wedges"
-        ],
-        "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
-        "rating": 4.8
-      },
-      {
-        "id": "755115edca344e8d39fa4155",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
-        "recipe_name": "Teriyaki Chicken Bowl",
-        "ingredients": [
-          "1 lb chicken breast, sliced",
-          "2 tbsp soy sauce",
-          "2 tbsp honey",
-          "1 tbsp rice vinegar",
-          "1 tsp ginger, grated",
-          "1 tsp garlic, minced",
-          "1 tbsp cornstarch",
-          "1 tbsp water",
-          "4 cups cooked white rice",
-          "1 cup steamed broccoli",
-          "1/2 cup sliced carrots",
-          "1/4 cup sliced green onions",
-          "1 tsp sesame seeds"
-        ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
-        "rating": 4.9
-      },
-      {
-        "id": "645115ed64ae8f728eef45b9",
-        "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
-        "recipe_name": "Beef Stroganoff",
-        "ingredients": [
-          "1 lb beef sirloin steak",
-          "1 onion",
-          "8 oz sliced mushrooms",
-          "2 cloves garlic",
-          "2 tbsp butter",
-          "2 tbsp all-purpose flour",
-          "2 cups beef broth",
-          "1/2 cup sour cream",
-          "1 tbsp dijon mustard",
-          "1 tbsp Worcestershire sauce",
-          "Salt and pepper to taste"
-        ],
-        "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
-        "rating": 4.4
-      }
-    ]
-  },
-  {
-    "_id": "6151b2d024bbd39d52b53779",
-    "name": "Sophia Chen",
-    "chefe_image": "https://example.com/chef-5.jpg",
-    "likes": 421,
-    "about": "Sophia Chen is a self-taught chef who has gained a huge following on social media. She is known for her creative and colorful dishes that are as beautiful as they are delicious. Her cooking style is influenced by her Chinese heritage and her love of travel.",
-    "recipes": [
-      {
-        "id": "645115edca344e8d39fa4125",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
-        "recipe_name": "Spicy Shrimp Tacos",
-        "ingredients": [
-          "1 lb raw shrimp",
-          "2 tbsp olive oil",
-          "1 tbsp chili powder",
-          "1 tsp cumin",
-          "1/2 tsp smoked paprika",
-          "1/2 tsp garlic powder",
-          "1/4 tsp cayenne pepper",
-          "8 small tortillas",
-          "1 cup shredded cabbage",
-          "1 avocado, sliced",
-          "1 lime, cut into wedges"
-        ],
-        "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
-        "rating": 4.5
-      },
-      {
-        "id": "755115edca344e8d39fa4155",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
-        "recipe_name": "Teriyaki Chicken Bowl",
-        "ingredients": [
-          "1 lb chicken breast, sliced",
-          "2 tbsp soy sauce",
-          "2 tbsp honey",
-          "1 tbsp rice vinegar",
-          "1 tsp ginger, grated",
-          "1 tsp garlic, minced",
-          "1 tbsp cornstarch",
-          "1 tbsp water",
-          "4 cups cooked white rice",
-          "1 cup steamed broccoli",
-          "1/2 cup sliced carrots",
-          "1/4 cup sliced green onions",
-          "1 tsp sesame seeds"
-        ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
-        "rating": 4.9
-      },
-      {
-        "id": "645115ed64ae8f728eef45b9",
-        "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
-        "recipe_name": "Beef Stroganoff",
-        "ingredients": [
-          "1 lb beef sirloin steak",
-          "1 onion",
-          "8 oz sliced mushrooms",
-          "2 cloves garlic",
-          "2 tbsp butter",
-          "2 tbsp all-purpose flour",
-          "2 cups beef broth",
-          "1/2 cup sour cream",
-          "1 tbsp dijon mustard",
-          "1 tbsp Worcestershire sauce",
-          "Salt and pepper to taste"
-        ],
-        "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
-        "rating": 3.4
-      }
-    ]
-  },
-  {
-    "_id": "6151b2d024bbd39d52b5377a",
-    "name": "Carlos Gonzalez",
-    "chefe_image": "https://example.com/chef-6.jpg",
-    "likes": 91,
-    "about": "Carlos Gonzalez is a chef with a passion for Mexican cuisine. He has worked in several high-end restaurants in Mexico City and is known for his use of fresh, bold flavors and his commitment to using only the best ingredients.",
-    "recipes": [
-      {
-        "id": "645115edca344e8d39fa4125",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
-        "recipe_name": "Spicy Shrimp Tacos",
-        "ingredients": [
-          "1 lb raw shrimp",
-          "2 tbsp olive oil",
-          "1 tbsp chili powder",
-          "1 tsp cumin",
-          "1/2 tsp smoked paprika",
-          "1/2 tsp garlic powder",
-          "1/4 tsp cayenne pepper",
-          "8 small tortillas",
-          "1 cup shredded cabbage",
-          "1 avocado, sliced",
-          "1 lime, cut into wedges"
-        ],
-        "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
-        "rating": 4.8
-      },
-      {
-        "id": "755115edca344e8d39fa4155",
-        "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
-        "recipe_name": "Teriyaki Chicken Bowl",
-        "ingredients": [
-          "1 lb chicken breast, sliced",
-          "2 tbsp soy sauce",
-          "2 tbsp honey",
-          "1 tbsp rice vinegar",
-          "1 tsp ginger, grated",
-          "1 tsp garlic, minced",
-          "1 tbsp cornstarch",
-          "1 tbsp water",
-          "4 cups cooked white rice",
-          "1 cup steamed broccoli",
-          "1/2 cup sliced carrots",
-          "1/4 cup sliced green onions",
-          "1 tsp sesame seeds"
-        ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
-        "rating": 4.9
-      },
-      {
-        "id": "645115ed64ae8f728eef45b9",
-        "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
-        "recipe_name": "Beef Stroganoff",
-        "ingredients": [
-          "1 lb beef sirloin steak",
-          "1 onion",
-          "8 oz sliced mushrooms",
-          "2 cloves garlic",
-          "2 tbsp butter",
-          "2 tbsp all-purpose flour",
-          "2 cups beef broth",
-          "1/2 cup sour cream",
-          "1 tbsp dijon mustard",
-          "1 tbsp Worcestershire sauce",
-          "Salt and pepper to taste"
-        ],
-        "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
-        "rating": 4.4
-      }
-    ]
-  }
+    {
+      "_id": "6151b2d024bbd39d52b53776",
+      "name": "Jose Rodriguez",
+      "chefe_image": "https://example.com/chef-2.jpg",
+      "likes": 148,
+      "about": "Jose Rodriguez is a renowned chef who has worked in some of the best restaurants in the world. He is known for his creative use of local ingredients and his innovative cooking techniques.",
+      "recipes": [
+        {
+          "id": "645115edca344e8d39fa4125",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
+          "recipe_name": "Spicy Shrimp Tacos",
+          "ingredients": [
+            "1 lb raw shrimp",
+            "2 tbsp olive oil",
+            "1 tbsp chili powder",
+            "1 tsp cumin",
+            "1/2 tsp smoked paprika",
+            "1/2 tsp garlic powder",
+            "1/4 tsp cayenne pepper",
+            "8 small tortillas",
+            "1 cup shredded cabbage",
+            "1 avocado, sliced",
+            "1 lime, cut into wedges"
+          ],
+          "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
+          "rating": 4.8
+        },
+        {
+          "id": "755115edca344e8d39fa4155",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_name": "Teriyaki Chicken Bowl",
+          "ingredients": [
+            "1 lb chicken breast, sliced",
+            "2 tbsp soy sauce",
+            "2 tbsp honey",
+            "1 tbsp rice vinegar",
+            "1 tsp ginger, grated",
+            "1 tsp garlic, minced",
+            "1 tbsp cornstarch",
+            "1 tbsp water",
+            "4 cups cooked white rice",
+            "1 cup steamed broccoli",
+            "1/2 cup sliced carrots",
+            "1/4 cup sliced green onions",
+            "1 tsp sesame seeds"
+          ],
+          "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
+          "rating": 4.9
+        },
+        {
+          "id": "645115ed64ae8f728eef45b9",
+          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "recipe_name": "Beef Stroganoff",
+          "ingredients": [
+            "1 lb beef sirloin steak",
+            "1 onion",
+            "8 oz sliced mushrooms",
+            "2 cloves garlic",
+            "2 tbsp butter",
+            "2 tbsp all-purpose flour",
+            "2 cups beef broth",
+            "1/2 cup sour cream",
+            "1 tbsp dijon mustard",
+            "1 tbsp Worcestershire sauce",
+            "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "_id": "6151b2d024bbd39d52b53777",
+      "name": "Emily Park",
+      "chefe_image": "https://example.com/chef-3.jpg",
+      "likes": 312,
+      "about": "Emily Park is a rising star in the culinary world. She has won several awards for her innovative dishes and her commitment to using organic and sustainable ingredients. Her cooking style is influenced by her Korean heritage and her travels around the world.",
+      "recipes": [
+        {
+          "id": "645115edca344e8d39fa4125",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
+          "recipe_name": "Spicy Shrimp Tacos",
+          "ingredients": [
+            "1 lb raw shrimp",
+            "2 tbsp olive oil",
+            "1 tbsp chili powder",
+            "1 tsp cumin",
+            "1/2 tsp smoked paprika",
+            "1/2 tsp garlic powder",
+            "1/4 tsp cayenne pepper",
+            "8 small tortillas",
+            "1 cup shredded cabbage",
+            "1 avocado, sliced",
+            "1 lime, cut into wedges"
+          ],
+          "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
+          "rating": 4.8
+        },
+        {
+          "id": "755115edca344e8d39fa4155",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_name": "Teriyaki Chicken Bowl",
+          "ingredients": [
+            "1 lb chicken breast, sliced",
+            "2 tbsp soy sauce",
+            "2 tbsp honey",
+            "1 tbsp rice vinegar",
+            "1 tsp ginger, grated",
+            "1 tsp garlic, minced",
+            "1 tbsp cornstarch",
+            "1 tbsp water",
+            "4 cups cooked white rice",
+            "1 cup steamed broccoli",
+            "1/2 cup sliced carrots",
+            "1/4 cup sliced green onions",
+            "1 tsp sesame seeds"
+          ],
+          "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
+          "rating": 4.9
+        },
+        {
+          "id": "645115ed64ae8f728eef45b9",
+          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "recipe_name": "Beef Stroganoff",
+          "ingredients": [
+            "1 lb beef sirloin steak",
+            "1 onion",
+            "8 oz sliced mushrooms",
+            "2 cloves garlic",
+            "2 tbsp butter",
+            "2 tbsp all-purpose flour",
+            "2 cups beef broth",
+            "1/2 cup sour cream",
+            "1 tbsp dijon mustard",
+            "1 tbsp Worcestershire sauce",
+            "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "_id": "6151b2d024bbd39d52b53778",
+      "name": "David Kim",
+      "chefe_image": "https://example.com/chef-4.jpg",
+      "likes": 78,
+      "about": "David Kim is a classically trained chef who has worked in some of the most prestigious kitchens in Europe and the United States. He is known for his refined technique and his ability to elevate simple ingredients to new heights.",
+      "recipes": [
+        {
+          "id": "645115edca344e8d39fa4125",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
+          "recipe_name": "Spicy Shrimp Tacos",
+          "ingredients": [
+            "1 lb raw shrimp",
+            "2 tbsp olive oil",
+            "1 tbsp chili powder",
+            "1 tsp cumin",
+            "1/2 tsp smoked paprika",
+            "1/2 tsp garlic powder",
+            "1/4 tsp cayenne pepper",
+            "8 small tortillas",
+            "1 cup shredded cabbage",
+            "1 avocado, sliced",
+            "1 lime, cut into wedges"
+          ],
+          "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
+          "rating": 4.8
+        },
+        {
+          "id": "755115edca344e8d39fa4155",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_name": "Teriyaki Chicken Bowl",
+          "ingredients": [
+            "1 lb chicken breast, sliced",
+            "2 tbsp soy sauce",
+            "2 tbsp honey",
+            "1 tbsp rice vinegar",
+            "1 tsp ginger, grated",
+            "1 tsp garlic, minced",
+            "1 tbsp cornstarch",
+            "1 tbsp water",
+            "4 cups cooked white rice",
+            "1 cup steamed broccoli",
+            "1/2 cup sliced carrots",
+            "1/4 cup sliced green onions",
+            "1 tsp sesame seeds"
+          ],
+          "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
+          "rating": 4.9
+        },
+        {
+          "id": "645115ed64ae8f728eef45b9",
+          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "recipe_name": "Beef Stroganoff",
+          "ingredients": [
+            "1 lb beef sirloin steak",
+            "1 onion",
+            "8 oz sliced mushrooms",
+            "2 cloves garlic",
+            "2 tbsp butter",
+            "2 tbsp all-purpose flour",
+            "2 cups beef broth",
+            "1/2 cup sour cream",
+            "1 tbsp dijon mustard",
+            "1 tbsp Worcestershire sauce",
+            "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "_id": "6151b2d024bbd39d52b53779",
+      "name": "Sophia Chen",
+      "chefe_image": "https://example.com/chef-5.jpg",
+      "likes": 421,
+      "about": "Sophia Chen is a self-taught chef who has gained a huge following on social media. She is known for her creative and colorful dishes that are as beautiful as they are delicious. Her cooking style is influenced by her Chinese heritage and her love of travel.",
+      "recipes": [
+        {
+          "id": "645115edca344e8d39fa4125",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
+          "recipe_name": "Spicy Shrimp Tacos",
+          "ingredients": [
+            "1 lb raw shrimp",
+            "2 tbsp olive oil",
+            "1 tbsp chili powder",
+            "1 tsp cumin",
+            "1/2 tsp smoked paprika",
+            "1/2 tsp garlic powder",
+            "1/4 tsp cayenne pepper",
+            "8 small tortillas",
+            "1 cup shredded cabbage",
+            "1 avocado, sliced",
+            "1 lime, cut into wedges"
+          ],
+          "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
+          "rating": 4.5
+        },
+        {
+          "id": "755115edca344e8d39fa4155",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_name": "Teriyaki Chicken Bowl",
+          "ingredients": [
+            "1 lb chicken breast, sliced",
+            "2 tbsp soy sauce",
+            "2 tbsp honey",
+            "1 tbsp rice vinegar",
+            "1 tsp ginger, grated",
+            "1 tsp garlic, minced",
+            "1 tbsp cornstarch",
+            "1 tbsp water",
+            "4 cups cooked white rice",
+            "1 cup steamed broccoli",
+            "1/2 cup sliced carrots",
+            "1/4 cup sliced green onions",
+            "1 tsp sesame seeds"
+          ],
+          "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
+          "rating": 4.9
+        },
+        {
+          "id": "645115ed64ae8f728eef45b9",
+          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "recipe_name": "Beef Stroganoff",
+          "ingredients": [
+            "1 lb beef sirloin steak",
+            "1 onion",
+            "8 oz sliced mushrooms",
+            "2 cloves garlic",
+            "2 tbsp butter",
+            "2 tbsp all-purpose flour",
+            "2 cups beef broth",
+            "1/2 cup sour cream",
+            "1 tbsp dijon mustard",
+            "1 tbsp Worcestershire sauce",
+            "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
+          "rating": 3.4
+        }
+      ]
+    },
+    {
+      "_id": "6151b2d024bbd39d52b5377a",
+      "name": "Carlos Gonzalez",
+      "chefe_image": "https://example.com/chef-6.jpg",
+      "likes": 91,
+      "about": "Carlos Gonzalez is a chef with a passion for Mexican cuisine. He has worked in several high-end restaurants in Mexico City and is known for his use of fresh, bold flavors and his commitment to using only the best ingredients.",
+      "recipes": [
+        {
+          "id": "645115edca344e8d39fa4125",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
+          "recipe_name": "Spicy Shrimp Tacos",
+          "ingredients": [
+            "1 lb raw shrimp",
+            "2 tbsp olive oil",
+            "1 tbsp chili powder",
+            "1 tsp cumin",
+            "1/2 tsp smoked paprika",
+            "1/2 tsp garlic powder",
+            "1/4 tsp cayenne pepper",
+            "8 small tortillas",
+            "1 cup shredded cabbage",
+            "1 avocado, sliced",
+            "1 lime, cut into wedges"
+          ],
+          "cooking_method": "1. In a large bowl, combine shrimp, olive oil, chili powder, cumin, smoked paprika, garlic powder, and cayenne pepper. \n2. Heat a large skillet over medium-high heat. Add the shrimp and cook until pink, about 3-4 minutes per side. \n3. Warm the tortillas in the microwave or on a griddle. \n4. Assemble the tacos with the cooked shrimp, shredded cabbage, sliced avocado, and a squeeze of lime juice.",
+          "rating": 4.8
+        },
+        {
+          "id": "755115edca344e8d39fa4155",
+          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_name": "Teriyaki Chicken Bowl",
+          "ingredients": [
+            "1 lb chicken breast, sliced",
+            "2 tbsp soy sauce",
+            "2 tbsp honey",
+            "1 tbsp rice vinegar",
+            "1 tsp ginger, grated",
+            "1 tsp garlic, minced",
+            "1 tbsp cornstarch",
+            "1 tbsp water",
+            "4 cups cooked white rice",
+            "1 cup steamed broccoli",
+            "1/2 cup sliced carrots",
+            "1/4 cup sliced green onions",
+            "1 tsp sesame seeds"
+          ],
+          "cooking_method": "1. In a small bowl, whisk together soy sauce, honey, rice vinegar, ginger, and garlic. \n2. In a large skillet or wok, cook chicken until browned and cooked through. \n3. Add the sauce to the skillet and cook until thickened, about 2-3 minutes. \n4. In a small bowl, whisk together cornstarch and water. \n5. Add the cornstarch mixture to the skillet and cook until the sauce thickens, about 1-2 minutes. \n6. Serve the chicken over cooked rice, topped with steamed broccoli, sliced carrots, green onions, and sesame seeds.",
+          "rating": 4.9
+        },
+        {
+          "id": "645115ed64ae8f728eef45b9",
+          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "recipe_name": "Beef Stroganoff",
+          "ingredients": [
+            "1 lb beef sirloin steak",
+            "1 onion",
+            "8 oz sliced mushrooms",
+            "2 cloves garlic",
+            "2 tbsp butter",
+            "2 tbsp all-purpose flour",
+            "2 cups beef broth",
+            "1/2 cup sour cream",
+            "1 tbsp dijon mustard",
+            "1 tbsp Worcestershire sauce",
+            "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. Slice beef into thin strips. \n2. In a large skillet, melt butter over medium-high heat. \n3. Add beef and cook until browned, about 5 minutes. \n4. Remove beef from skillet and set aside. \n5. Add onion and garlic to skillet and cook until softened, about 5 minutes. \n6. Add mushrooms and cook until browned, about 5-7 minutes. \n7. Sprinkle flour over vegetables and stir until well combined. \n8. Slowly pour in beef broth, stirring constantly, and bring to a simmer. \n9. Add beef back to skillet and let simmer until sauce thickens, about 10 minutes. \n10. Stir in sour cream, mustard, and Worcestershire sauce. \n11. Season with salt and pepper. \n12. Serve hot over egg noodles or rice.",
+          "rating": 4.4
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "_id": "64518606816833b42704b035",
+      "slide_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/white-home-img1.jpg"
+    },
+    {
+      "_id": "6451860679374ba1a0287aa2",
+      "slide_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/white-home-img2.jpg"
+    },
+    {
+      "_id": "64518606688114038302b8af",
+      "slide_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/white-home-img3.jpg"
+    },
+    {
+      "_id": "64518606a1fb7c69de9c63b7",
+      "slide_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/white-home-img4.jpg"
+    },
+    {
+      "_id": "6451860655b0f052001470e6",
+      "slide_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/white-home-img5.jpg"
+    }
+  ]
 ]

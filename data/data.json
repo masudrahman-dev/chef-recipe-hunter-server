@@ -3,7 +3,9 @@
     {
       "_id": "6151b2d024bbd39d52b53775",
       "name": "Michelle Nguyen",
-      "chef_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/left-menu-team4.jpg",
+      "total_recefie": "7",
+      "year_of_experience": "9",
+      "chefe_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/left-menu-team4.jpg",
       "likes": 215,
       "about": "Michelle Nguyen is an award-winning chef who has been featured on several cooking shows. Her specialty is Asian cuisine, and she is known for her unique fusion of traditional and modern flavors.",
       "recipes": [
@@ -75,13 +77,15 @@
     {
       "_id": "6151b2d024bbd39d52b53776",
       "name": "Jose Rodriguez",
+      "total_recefie": "4",
+      "year_of_experience": "12",
       "chefe_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/left-menu-team3.jpg",
       "likes": 148,
       "about": "Jose Rodriguez is a renowned chef who has worked in some of the best restaurants in the world. He is known for his creative use of local ingredients and his innovative cooking techniques.",
       "recipes": [
         {
           "id": "645115edca344e8d39fa4125",
-          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
+          "recipe_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-1.jpg",
           "recipe_name": "Spicy Shrimp Tacos",
           "ingredients": [
             "1 lb raw shrimp",
@@ -101,7 +105,7 @@
         },
         {
           "id": "755115edca344e8d39fa4155",
-          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-2.jpg",
           "recipe_name": "Teriyaki Chicken Bowl",
           "ingredients": [
             "1 lb chicken breast, sliced",
@@ -123,7 +127,7 @@
         },
         {
           "id": "645115ed64ae8f728eef45b9",
-          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "image_url": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-3.jpg",
           "recipe_name": "Beef Stroganoff",
           "ingredients": [
             "1 lb beef sirloin steak",
@@ -146,13 +150,15 @@
     {
       "_id": "6151b2d024bbd39d52b53777",
       "name": "Emily Park",
+      "total_recefie": "6",
+      "year_of_experience": "11",
       "chefe_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/09/home1-main-image-5.jpg",
       "likes": 312,
       "about": "Emily Park is a rising star in the culinary world. She has won several awards for her innovative dishes and her commitment to using organic and sustainable ingredients. Her cooking style is influenced by her Korean heritage and her travels around the world.",
       "recipes": [
         {
           "id": "645115edca344e8d39fa4125",
-          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
+          "recipe_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-4.jpg",
           "recipe_name": "Spicy Shrimp Tacos",
           "ingredients": [
             "1 lb raw shrimp",
@@ -172,7 +178,7 @@
         },
         {
           "id": "755115edca344e8d39fa4155",
-          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-5.jpg",
           "recipe_name": "Teriyaki Chicken Bowl",
           "ingredients": [
             "1 lb chicken breast, sliced",
@@ -194,7 +200,7 @@
         },
         {
           "id": "645115ed64ae8f728eef45b9",
-          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "image_url": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-6.jpg",
           "recipe_name": "Beef Stroganoff",
           "ingredients": [
             "1 lb beef sirloin steak",
@@ -217,13 +223,15 @@
     {
       "_id": "6151b2d024bbd39d52b53778",
       "name": "David Kim",
+      "total_recefie": "3",
+      "year_of_experience": "15",
       "chefe_image": "https://elementor.zozothemes.com/restaurt/wp-content/uploads/sites/58/2022/11/about-imgres1-1.jpg",
       "likes": 78,
       "about": "David Kim is a classically trained chef who has worked in some of the most prestigious kitchens in Europe and the United States. He is known for his refined technique and his ability to elevate simple ingredients to new heights.",
       "recipes": [
         {
           "id": "645115edca344e8d39fa4125",
-          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-1.png",
+          "recipe_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-7.jpg",
           "recipe_name": "Spicy Shrimp Tacos",
           "ingredients": [
             "1 lb raw shrimp",
@@ -243,7 +251,7 @@
         },
         {
           "id": "755115edca344e8d39fa4155",
-          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-8.jpg",
           "recipe_name": "Teriyaki Chicken Bowl",
           "ingredients": [
             "1 lb chicken breast, sliced",
@@ -265,7 +273,7 @@
         },
         {
           "id": "645115ed64ae8f728eef45b9",
-          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "image_url": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-9.jpg",
           "recipe_name": "Beef Stroganoff",
           "ingredients": [
             "1 lb beef sirloin steak",
@@ -288,7 +296,9 @@
     {
       "_id": "6151b2d024bbd39d52b53779",
       "name": "Sophia Chen",
-      "chefe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2022/09/news-13.jpg",
+      "total_recefie": "8",
+      "year_of_experience": "19",
+      "chefe_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-10.jpg",
       "likes": 421,
       "about": "Sophia Chen is a self-taught chef who has gained a huge following on social media. She is known for her creative and colorful dishes that are as beautiful as they are delicious. Her cooking style is influenced by her Chinese heritage and her love of travel.",
       "recipes": [
@@ -314,7 +324,7 @@
         },
         {
           "id": "755115edca344e8d39fa4155",
-          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-11.jpg",
           "recipe_name": "Teriyaki Chicken Bowl",
           "ingredients": [
             "1 lb chicken breast, sliced",
@@ -336,7 +346,7 @@
         },
         {
           "id": "645115ed64ae8f728eef45b9",
-          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "image_url": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-12.jpg",
           "recipe_name": "Beef Stroganoff",
           "ingredients": [
             "1 lb beef sirloin steak",
@@ -359,7 +369,9 @@
     {
       "_id": "6151b2d024bbd39d52b5377a",
       "name": "Carlos Gonzalez",
-      "chefe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2022/09/men-1.png",
+      "total_recefie": "5",
+      "year_of_experience": "8",
+      "chefe_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-13.jpg",
       "likes": 91,
       "about": "Carlos Gonzalez is a chef with a passion for Mexican cuisine. He has worked in several high-end restaurants in Mexico City and is known for his use of fresh, bold flavors and his commitment to using only the best ingredients.",
       "recipes": [
@@ -385,7 +397,7 @@
         },
         {
           "id": "755115edca344e8d39fa4155",
-          "recipe_image": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-2.png",
+          "recipe_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-14.jpg",
           "recipe_name": "Teriyaki Chicken Bowl",
           "ingredients": [
             "1 lb chicken breast, sliced",
@@ -407,7 +419,7 @@
         },
         {
           "id": "645115ed64ae8f728eef45b9",
-          "image_url": "https://fastwpdemo.com/newwp/ticrou/wp-content/uploads/2019/01/shop-3.png",
+          "image_url": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-15.jpg",
           "recipe_name": "Beef Stroganoff",
           "ingredients": [
             "1 lb beef sirloin steak",
@@ -431,23 +443,23 @@
   [
     {
       "_id": "64518606816833b42704b035",
-      "slide_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/white-home-img1.jpg"
+      "slide_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-1.jpg"
     },
     {
       "_id": "6451860679374ba1a0287aa2",
-      "slide_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/white-home-img2.jpg"
+      "slide_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-2.jpg"
     },
     {
       "_id": "64518606688114038302b8af",
-      "slide_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/white-home-img3.jpg"
+      "slide_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-3.jpg"
     },
     {
       "_id": "64518606a1fb7c69de9c63b7",
-      "slide_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/white-home-img4.jpg"
+      "slide_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-4.jpg"
     },
     {
       "_id": "6451860655b0f052001470e6",
-      "slide_image": "https://savory.qodeinteractive.com/wp-content/uploads/2016/10/white-home-img5.jpg"
+      "slide_image": "https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/product-5.jpg"
     }
   ]
 ]
